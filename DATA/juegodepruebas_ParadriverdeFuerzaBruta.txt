@@ -1,0 +1,44 @@
+Se debe de introducir a mano
+//numero productos
+4
+//nombres de los productos
+A
+B
+C
+D
+//similitudes
+10
+15
+20
+10
+35
+25
+15
+35
+30
+20
+25
+30
+
+//las filas y columnas pueden variar mientra num_columnas*num_filas = n_productos
+caso1:
+2 
+2
+
+caso2:
+1
+4
+
+caso3:
+4
+1
+
+
+estos casos son basicos.
+
+
+La similitud maxima es 95
+y la disposicion deberia ser esta en el caso 1:
+A B
+C D
+y en el resto sigue el mismo orden de derecha a izquierda y de arriba a abajo

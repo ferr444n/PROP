@@ -1,0 +1,120 @@
+//Introducir a mano (copiar las similitudes por fila)
+
+1
+5
+a
+b
+c
+d
+e
+0 20 30 40 50
+20 0 25 35 45
+30 25 0 15 25
+40 35 15 0 20
+50 45 25 20 0
+1
+5
+//Sol: a d b e c
+1
+1
+a
+0
+1
+1
+//Sol: a 
+1
+0
+0
+0
+//Sol: 
+2
+5
+a
+b
+c
+d
+e
+0 20 30 40 50
+20 0 25 35 45
+30 25 0 15 25
+40 35 15 0 20
+50 45 25 20 0
+1
+5
+//Sol: a c d b e
+2
+1
+a
+0
+1
+1
+//Sol: a 
+2
+0
+0
+0
+//Sol: 
+3
+5
+a
+b
+c
+d
+e
+0 20 30 40 50
+20 0 25 35 45
+30 25 0 15 25
+40 35 15 0 20
+50 45 25 20 0
+1
+5
+Aproximacion
+//Sol: a d b e c
+3
+5
+a
+b
+c
+d
+e
+0 20 30 40 50
+20 0 25 35 45
+30 25 0 15 25
+40 35 15 0 20
+50 45 25 20 0
+1
+5
+Fuerza Bruta
+//Sol: a c d b e
+3
+5
+a
+b
+c
+d
+e
+0 20 30 40 50
+20 0 25 35 45
+30 25 0 15 25
+40 35 15 0 20
+50 45 25 20 0
+1
+5
+hola
+//SOl: Algoritmo incorrecto, vuelva a escoger un algoritmo
+4
+5
+a
+b
+c
+d
+e
+0 20 30 40 50
+20 0 25 35 45
+30 25 0 15 25
+40 35 15 0 20
+50 45 25 20 0
+1
+5
+//Sol: los costos son iguales!!
+5

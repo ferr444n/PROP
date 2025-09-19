@@ -1,0 +1,265 @@
+Prueba 1:
+Esta prueba tiene el objetivo de provar casos limite donde al intentar agregar o elimar un prodcuto hay algun error
+Entrada:
+2
+a
+
+2
+a
+r
+6
+
+2
+b
+y
+3
+
+4
+
+2
+b
+a
+23
+
+2
+c
+a
+45
+a
+55
+
+2
+c
+a
+34
+b
+11
+
+4
+
+3
+r
+
+3
+a
+
+4
+
+1
+
+6
+a
+b
+44
+
+6
+b
+c
+77
+
+0
+Salida:
+Driver de GestionProductos
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Nom del producte:
+S'han d'introduir 0 parelles de producte i la seva similitud:
+Producte afegit correctament.
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Nom del producte:
+S'han d'introduir 1 parelles de producte i la seva similitud:
+Nom del Producte similar numero 1:
+Similitud amb el producte:
+Error: El producte ja existeix.
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Nom del producte:
+S'han d'introduir 1 parelles de producte i la seva similitud:
+Nom del Producte similar numero 1:
+Similitud amb el producte:
+Error: El producte te una similitud amb un producte inexistent: y
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Llistat de productes i les seves similituds:
+Producte: a
+No hi ha similituds definides.
+
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Nom del producte:
+S'han d'introduir 1 parelles de producte i la seva similitud:
+Nom del Producte similar numero 1:
+Similitud amb el producte:
+Producte afegit correctament.
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Nom del producte:
+S'han d'introduir 2 parelles de producte i la seva similitud:
+Nom del Producte similar numero 1:
+Similitud amb el producte:
+Nom del Producte similar numero 2:
+Similitud amb el producte:
+Error: El producte no te similitud amb b
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Nom del producte:
+S'han d'introduir 2 parelles de producte i la seva similitud:
+Nom del Producte similar numero 1:
+Similitud amb el producte:
+Nom del Producte similar numero 2:
+Similitud amb el producte:
+Producte afegit correctament.
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Llistat de productes i les seves similituds:
+Producte: a
+b -> 23
+c -> 34
+
+Producte: b
+a -> 23
+c -> 11
+
+Producte: c
+a -> 34
+b -> 11
+
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Nom del producte:
+Error: El producte no existeix.
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Nom del producte:
+Producte eliminat correctament.
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Llistat de productes i les seves similituds:
+Producte: b
+c -> 11
+
+Producte: c
+b -> 11
+
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Hi han 2 productes
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Nom del producte 1
+Nom del producte 2
+Introdueix el valor de la similitud:
+Error: El producte no existeix.
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
+Nom del producte 1
+Nom del producte 2
+Introdueix el valor de la similitud:
+Similitud modificada correctament
+Prem Enter per tornar al menu principal
+Escull operacio a realitzar
+0 -> Sortir
+1 -> Saber quantitat productes
+2 -> Afegir Producte
+3 -> Treure Producte
+4 -> Llistar Productes
+5 -> Set Productes
+6 -> Cambiar similitud entre dos Productes
